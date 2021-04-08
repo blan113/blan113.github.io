@@ -1,5 +1,5 @@
 # GEOG4046 Assignments
-Assignment for GEOG4046 Web GIS that builds a web map with Leaflet.
+Assignments for GEOG4046 Web GIS that builds web maps using Leaflet.
 
 ## Assignment 10: Current Weather
 A map showing real-time weather radar and alerts from the National Weather Service.
